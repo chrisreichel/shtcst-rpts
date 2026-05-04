@@ -82,3 +82,10 @@ Blacklist agora:
 - `5511979757479` (+ variações)
 - `17372435689` (+ variações)
 - Plataforma: `a...",,
+2026-05-03 22:52:49,whatsapp,1737*****5689@s.whatsapp.net,,armas_curta,0.53,Qual a melhor pistola 45 ACP?,"Limpo. Histórico do `shtcst-rpts` agora tem só 2 commits:
+
+1. `3b6b340` — Initial clean state
+2. `b686a0e` — [bot] alltime report
+
+Dados antigos eliminados do histórico (force push) e do remoto. Relat...",,
+2026-05-03 22:54:38,whatsapp,1737*****5689@s.whatsapp.net,,armas_curta,0.53,Qual a melhor pistola 45 ACP?,Zero registros de `status@broadcast` no DB — o hook anterior já ignorava essas messages ou não disparava porque não tem sessão real. O filtro que adicionei no handler é precaução caso o WhatsApp comec...,,
