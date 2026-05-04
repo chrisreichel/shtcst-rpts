@@ -9,10 +9,14 @@ Gerados diariamente às 01:00 BRT.
 - `YYYY-MM/` — mensal consolidado
 - `ALL_TIME/` — consolidado geral
 
+## Diários (últimos 30)
+
+- [05-2026-05-03](2026/05/2026-05-03/summary.md)
+
 ## All-Time
 
 - [ALL_TIME](ALL_TIME/summary.md)
 
 ---
 
-Última atualização: 2026-05-04 00:16:58 BRT
+Última atualização: 2026-05-04 06:00:11 BRT
