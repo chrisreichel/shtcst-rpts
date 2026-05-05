@@ -12,6 +12,7 @@ Gerados diariamente às 01:00 BRT.
 ## Diários (últimos 30)
 
 - [05-2026-05-03](2026/05/2026-05-03/summary.md)
+- [05-2026-05-04](2026/05/2026-05-04/summary.md)
 
 ## All-Time
 
@@ -19,4 +20,4 @@ Gerados diariamente às 01:00 BRT.
 
 ---
 
-Última atualização: 2026-05-04 06:15:05 BRT
+Última atualização: 2026-05-05 06:00:07 BRT
