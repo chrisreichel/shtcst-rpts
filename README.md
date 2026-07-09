@@ -53,4 +53,4 @@ Gerados diariamente às 01:00 BRT.
 
 ---
 
-Última atualização: 2026-07-09 06:00:02 BRT
+Última atualização: 2026-07-09 06:15:02 BRT
