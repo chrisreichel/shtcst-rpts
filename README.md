@@ -11,7 +11,6 @@ Gerados diariamente às 01:00 BRT.
 
 ## Diários (últimos 30)
 
-- [07-2026-07-31](2026/07/2026-07-31/summary.md)
 - [08-2026-08-01](2026/08/2026-08-01/summary.md)
 - [08-2026-08-02](2026/08/2026-08-02/summary.md)
 - [08-2026-08-03](2026/08/2026-08-03/summary.md)
@@ -41,6 +40,7 @@ Gerados diariamente às 01:00 BRT.
 - [08-2026-08-27](2026/08/2026-08-27/summary.md)
 - [08-2026-08-28](2026/08/2026-08-28/summary.md)
 - [08-2026-08-29](2026/08/2026-08-29/summary.md)
+- [08-2026-08-30](2026/08/2026-08-30/summary.md)
 
 ## Mensais
 
@@ -54,4 +54,4 @@ Gerados diariamente às 01:00 BRT.
 
 ---
 
-Última atualização: 2026-08-30 06:15:02 BRT
+Última atualização: 2026-08-31 06:00:02 BRT
